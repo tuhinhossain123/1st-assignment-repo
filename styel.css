@@ -44,9 +44,9 @@ h3 {
 .link-button {
     text-decoration: none;
     background-color: tomato;
-    padding: 10px 20px;
+    padding: 10px 10px;
     color: white;
-    font-weight: 300;
+    font-weight: 50;
     border-radius: 5%;
 
 }
@@ -107,7 +107,81 @@ h3 {
 
 }
 
+.section-3 img {
+    width: 100px;
+    height: 100px;
+}
+
 .sec-3-img {
     width: 100px;
     height: 100px;
 }
+
+.half-11 {
+    height: 300px;
+    width: 330px;
+    padding-left: 20%;
+    margin-top: 20%;
+}
+
+.half-22 {
+    width: 50%;
+    height: 50%;
+    padding-left: 10%;
+    margin-top: 5%;
+
+}
+
+.shape-1 {
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+
+.shape-2 {
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position-x: right;
+    background-position-y: bottom;
+}
+
+#img-33 {
+    height: 400px;
+    width: 300px;
+    padding-left: 70%;
+    background-image: url(mission-2022-main/images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: right;
+
+
+}
+
+#half-33 {
+    height: 500px;
+    width: 500px;
+    padding-left: 30%;
+}
+
+.link-button-2 {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 10px;
+    color: white;
+    font-weight: 50;
+    border-radius: 5%;
+}
+
+.tomato-1 {
+    color: tomato;
+}
+
+.bc-color {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: ari;
+}
+
